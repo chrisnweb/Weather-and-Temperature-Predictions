@@ -42,16 +42,16 @@ In this project I am going to present how weather in Houston, Texas, specificall
       <img src="Images/missing_data.png" width="500">
 
 * Visualizing the daily temperatures - maximum, average, and minimum
-      <img src="Images/daily_temperature.png" width="500">
+      <img src="Images/daily_temperature.png" width="400">
 
 * Precipitation summary
     - The highest one day precipitation (rainfall): 16.07 inches - August 27, 2017
-      <img src="Images/precipitation_summary.png" width="500">
+      <img src="Images/precipitation_summary.png" width="400">
 
 * 3D plot visualization of the weather condition
     - Blue dots = It rained when the precipitation (in Inches) increased
     - Red dots = It didn't rain when the precipitation (in Inches) at low level
-      <img src="Images/3d_plot.png" width="500">
+      <img src="Images/3d_plot.png" width="400">
 
 ## *********************************************
 ## **Rainfall Predictions**
@@ -79,7 +79,7 @@ In this project I am going to present how weather in Houston, Texas, specificall
 
 ### **Linear Regression**
    -  Visualizing the prediction
-  <img src="Images/linreg_prediction.png"> 
+  <img src="Images/linreg_prediction.png" width=>"300"
   
    -  Residuals plot on Train and Test data
   <img src="Images/residual_plot.png"> 
