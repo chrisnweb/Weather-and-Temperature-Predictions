@@ -25,3 +25,5 @@ In this project I am going to present how weather in Houston, Texas, specificall
 * ***Long-Short Term Memory (LSTM)*** – It is a type of Recurrent Neural Network (RNN) architecture used in the field of deep learning. LSTM is a great choice for Time Series forecasting/predicting (such as temperature).
   - Time Series is a collection of data points indexed based on the time they were collected.
 
+### **Dataset**
+* The historical Houston public daily weather data are downloaded from the [NOAA (website]https://nomads.ncep.noaa.gov/)
