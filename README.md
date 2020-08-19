@@ -62,14 +62,32 @@ In this project I am going to present how weather in Houston, Texas, specificall
   <img src="Images/svc_prediction.png"> 
   
 ### **Logistic Regression**
-   -  No Rain = 337 days
-   -  Rain = 96 days
+   -  No Rain = 338 days
+   -  Rain = 87 days
   <img src="Images/logreg_prediction.png">
       
 ### **Random Forest**
    -  No Rain = 337 days
-   -  Rain = 96 days
+   -  Rain = 158 days
   <img src="Images/rf_prediction.png">
 
-  ### **Evaluating with ROC Curve for 3 models**
+  ### **Evaluating with ROC Curve on 3 models**
   <img src="Images/comparison_roc_curve.png" width="300">
+  
+  ## *********************************************
+## **Temperature Predictions**
+
+### **Linear Regression**
+   -  Visualizing the prediction
+  <img src="Images/linreg_prediction.png"> 
+  
+   -  Residuals plot on Train and Test data
+  <img src="Images/residual_plot.png"> 
+  
+  
+  
+  
+  
+  
+  
+  
