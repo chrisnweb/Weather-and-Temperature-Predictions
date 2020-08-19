@@ -40,7 +40,7 @@ In this project I am going to present how weather in Houston, Texas, specificall
 * Missing data visualizations with [missingno](https://libraries.io/pypi/missingno)
   - The white horizontal lines in each column represent the null values.
 ![](https://github.com/chrisnweb/Weather-and-Temperature-Predictions/blob/master/Images/missing_data.png)
-<img src="Images/missing_data.png" width="300">
+<img src="Images/missing_data.png" width="600">
 
 
 
