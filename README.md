@@ -11,4 +11,17 @@ In this project I am going to present how weather in Houston, Texas, specificall
 *	Weather prediction such as rainfall is one of the major concerns in the field of meteorology. Several techniques I believed that they will help to predict the weather are based on Machine Learning and Deep Learning methods.
 * My goal is to use various Machine Learning and Deep Learning methods to assist with rainfall and temperature predictions.
 
+#### **Machine Learning methods used:**
+* ***SVM with Support Vector Classifier (SVC)*** – It is a widely used for classification and regression problems. 
+
+* ***Logistic Regression*** – It is a popular classification algorithm used for binary classification problems. Logistic Regression is an improved version of Linear Regression
+
+* ***Random Forest*** – It is considered a classification algorithm that consisting of many decision trees.
+
+*	***Linear Regression*** – It is a statistical process to determine an estimated relationship of two variable sets. In our project we used it to forecast/predict the relationship between 2 variables (Max and Min Temperatures)
+
+#### **Deep Learning method used:**
+
+* ***Long-Short Term Memory (LSTM)*** – It is a type of Recurrent Neural Network (RNN) architecture used in the field of deep learning. LSTM is a great choice for Time Series forecasting/predicting (such as temperature).
+  - Time Series is a collection of data points indexed based on the time they were collected.
 
