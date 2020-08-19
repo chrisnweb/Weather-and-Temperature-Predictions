@@ -89,7 +89,7 @@ In this project I am going to present how weather in Houston, Texas, specificall
    <img src="Images/lstm_prediction.png" width="500">
  
    -  Zoom in closer
-   <img src="Images/lstm_prediction_zoom_in).png" width="500">
+  <img src="Images/lstm_prediction_zoom_in).png" width="500">
   
   
   
