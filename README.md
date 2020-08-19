@@ -26,4 +26,12 @@ In this project I am going to present how weather in Houston, Texas, specificall
   - Time Series is a collection of data points indexed based on the time they were collected.
 
 ### **Dataset**
-* The historical Houston public daily weather data are downloaded from the [NOAA (website]https://nomads.ncep.noaa.gov/)
+* The historical Houston public daily weather data are downloaded from the [NOAA website](https://nomads.ncep.noaa.gov/)
+
+### **Major used Libraries/Packages:**
+* Panda (for file handling)
+*	Numpy (for scientific computing)
+*	Matplotlib (for visualization plotting)
+*	Scikit-Learn (for Machine Learning)
+*	Keras (for Deep Learning)
+*	TensorFlow (for Deep Learning)
