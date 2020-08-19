@@ -86,10 +86,10 @@ In this project I am going to present how weather in Houston, Texas, specificall
   
   ### **Recurrent Neural Network LSTM – Time Series**
    -  Visualization of the prediction
-   <img src="Images/lstm_prediction.png" width="400">
+   <img src="Images/lstm_prediction.png" width="500">
  
-    -  Zoom in closer
-   <img src="Images/lstm_prediction_zoom_in).png" width="400">
+   -  Zoom in closer
+   <img src="Images/lstm_prediction_zoom_in).png" width="500">
   
   
   
