@@ -37,8 +37,8 @@ In this project I am going to present how weather in Houston, Texas, specificall
 *	TensorFlow (for Deep Learning)
 
 ### **Data Visualization for EDA**
-* Missing data visualizations with [missingno]
-* The white horizontal lines in each column represent the null values.
+* Missing data visualizations with [missingno](https://libraries.io/pypi/missingno)
+ -  The white horizontal lines in each column represent the null values.
 ![](https://github.com/chrisnweb/Weather-and-Temperature-Predictions/blob/master/Images/missing_data.png)
 
 
