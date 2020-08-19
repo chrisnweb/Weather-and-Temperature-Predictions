@@ -38,8 +38,7 @@ In this project I am going to present how weather in Houston, Texas, specificall
 
 ### **Data Visualization for EDA**
 * Missing data visualizations with [missingno](https://libraries.io/pypi/missingno)
-  - The white horizontal lines in each column represent the null values.
-![](https://github.com/chrisnweb/Weather-and-Temperature-Predictions/blob/master/Images/missing_data.png)
+  #### - The white horizontal lines in each column represent the null values.
       <img src="Images/missing_data.png" width="500">
 
 * Visualizing the daily temperatures - maximum, average, and minimum
@@ -50,8 +49,8 @@ In this project I am going to present how weather in Houston, Texas, specificall
       <img src="Images/precipitation_summary.png" width="500">
 
 * 3D plot visualization of the weather condition
-    - Blue dots = It rained when the precipitation (in Inches) increased
-    - Red dots = It didn't rain when the precipitation (in Inches) at low level
+    #### - Blue dots = It rained when the precipitation (in Inches) increased
+    #### - Red dots = It didn't rain when the precipitation (in Inches) at low level
       <img src="Images/3d_plot.png" width="500">
 
 
