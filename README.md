@@ -42,5 +42,18 @@ In this project I am going to present how weather in Houston, Texas, specificall
 ![](https://github.com/chrisnweb/Weather-and-Temperature-Predictions/blob/master/Images/missing_data.png)
       <img src="Images/missing_data.png" width="500">
 
+* Visualizing the daily temperatures - maximum, average, and minimum
+      <img src="Images/daily_temperature.png" width="500">
+
+* Precipitation summary
+    - The highest one day precipitation (rainfall): 16.07 inches - August 27, 201
+      <img src="Images/precipitation_summary.png" width="500">
+
+* 3D plot visualization of the weather condition
+    - Blue dots = It rained when the precipitation (in Inches) increased
+    - Red dots = It didn't rain when the precipitation (in Inches) at low level
+      <img src="Images/3d_plot.png" width="500">
+
+
 
 
