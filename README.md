@@ -39,7 +39,7 @@ In this project I am going to present how weather in Houston, Texas, specificall
 ### **Data Visualization for EDA**
 * Missing data visualizations with [missingno]
 * The white horizontal lines in each column represent the null values.
-![](https://github.com/chrisnweb/Weather-and-Temperature-Predictions/tree/master/Images/missing_data.png)
+![](https://github.com/chrisnweb/Weather-and-Temperature-Predictions/blob/master/Images/missing_data.png)
 
 
 
