@@ -81,7 +81,7 @@ In this project I am going to present how weather in Houston, Texas, specificall
    -  Visualizing the prediction
    <img src="Images/linreg_prediction.png" width="400">
   
-   -  Residuals for Linear Regression model
+   -  Residual analysis on the Linear Regression model
    <img src="Images/residual_plot.png" width="300"> 
   
   
