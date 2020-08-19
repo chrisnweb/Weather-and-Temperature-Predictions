@@ -121,3 +121,11 @@ The graph patterns from our predicted temperature are closed to the actual. Our 
 ## **CHEERIOS!**
 
 ## Reference
+
+[missingno](https://libraries.io/pypi/missingno)
+
+[Yellowbrick](https://pypi.org/project/yellowbrick/)
+
+[sklearn.metrics.mean_squared_error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
+
+[Timeseries anomaly detection using an Autoencoder](https://keras.io/examples/timeseries/timeseries_anomaly_detection/)
