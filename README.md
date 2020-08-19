@@ -57,8 +57,8 @@ In this project I am going to present how weather in Houston, Texas, specificall
 ## **Rainfall Predictions**
 
 ### **Support Vector Classification (SVC)**
-    - No Rain = 337 days
-    - Rain = 96 days
+    -   No Rain = 337 days
+    -   Rain = 96 days
   <img src="Images/svc_prediction.png">
       
   #### **Evaluating with ROC Curve**
