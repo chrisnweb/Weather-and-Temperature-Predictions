@@ -82,7 +82,7 @@ In this project I am going to present how weather in Houston, Texas, specificall
    <img src="Images/linreg_prediction.png" width="400">
   
    -  Residual plot analysis on Train and Test data
-   <img src="Images/residual_plot.png" wid="300"> 
+   <img src="Images/residual_plot.png" width="300"> 
   
   
   
