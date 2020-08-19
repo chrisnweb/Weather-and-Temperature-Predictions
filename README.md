@@ -45,7 +45,7 @@ In this project I am going to present how weather in Houston, Texas, specificall
       <img src="Images/daily_temperature.png" width="500">
 
 * Precipitation summary
-    - The highest one day precipitation (rainfall): 16.07 inches - August 27, 201
+    - The highest one day precipitation (rainfall): 16.07 inches - August 27, 2017
       <img src="Images/precipitation_summary.png" width="500">
 
 * 3D plot visualization of the weather condition
@@ -53,6 +53,13 @@ In this project I am going to present how weather in Houston, Texas, specificall
     - Red dots = It didn't rain when the precipitation (in Inches) at low level
       <img src="Images/3d_plot.png" width="500">
 
+## *********************************************
+## **Rainfall Predictions**
 
-
-
+### **Support Vector Classification (SVC)**
+    - No Rain = 337 days
+    - Rain = 96 days
+      <img src="Images/svc_prediction.png" width="500">
+      
+  #### **Evaluating with ROC Curve**
+      <img src="Images/svc_roc_curve.png" width="500">
