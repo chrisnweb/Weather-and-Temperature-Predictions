@@ -72,4 +72,4 @@ In this project I am going to present how weather in Houston, Texas, specificall
   <img src="Images/rf_prediction.png">
 
   ### **Evaluating with ROC Curve for 3 models**
-  <img src="Images/comparison_roc_curve.png" width="100">
+  <img src="Images/comparison_roc_curve.png" width="400">
