@@ -35,3 +35,10 @@ In this project I am going to present how weather in Houston, Texas, specificall
 *	Scikit-Learn (for Machine Learning)
 *	Keras (for Deep Learning)
 *	TensorFlow (for Deep Learning)
+
+### **Data Visualization for EDA**
+* Missing data visualizations with [missingno]
+
+
+
+
