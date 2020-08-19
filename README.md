@@ -91,7 +91,30 @@ In this project I am going to present how weather in Houston, Texas, specificall
    -  Zoom in closer
    <img src="Images/lstm_prediction_zoom_in.png" width="500">
   
+### Result
+#### The model was able to detect pattern over a period of times. It has picked up the annual trend of increasing value (temperature) as summer and decreasing temperature as winter.
+#### The graph patterns from our predicted temperature are closed to the actual. Our model did still indicate overall trends such as going up or down. The prediction has taught me that the LSTMs can be very effective in times series predicting/forecasting.
+ 
   
-  
-  
+ ## **Conclusion** 
+#### In this project, we have presented the most fundamental machine learning algorithms such as Support Vector Classifier, Logistic Regression, and Random Forest used to predict the rainfall, the Linear Regression to predict the temperature. We also have presented a deep learning algorithm i.e. RNN-LSTM for time series forecasting the temperature. We implemented these prediction methods with the help of the Scikit-Learn, Keras, TensorFlow machine learning/deep learning libraries.
+
+#### I know that weather forecasters i.e. meteorologists are not perfect, but their predictions/forecast are mostly more accurate than the Linear Regression model that was presented in this project. This indicates that the weather is a non-linear system. Furthermore, my Linear Regression model prediction was based on the historical data from one weather station (location) in contrast to multiple stations (locations) that most forecasters use.
+
+##### From this project, I have learned that non-linear system modeling with RNN-LSTM can be very effective in Times Series forecasting. I hope, at the end, prediction of Time Series data in meteorology can assist in decision-making processes carried out by organizations and be responsible for the prevention of weather disasters such as flooding, extreme heat waves, and tornadoes.
+
+
+## Questions to improve learning
+#### What can be add to improve the project and can be done differently?
+
+##### 1.  My project will not stop here, I will use the RNN-LSTM time series data to predict the rainfall.
+
+##### 2.	For the future, I need to compare with other methods such as Holt-Winter, SARIMA, and DNNRegression in order to demonstrate the improvement of rainfall/temperature prediction in the proposed approach.
+
+##### 3.	I can improve the model by adding more LSTM layers, changing loss function, and increasing the probability of dropout to distribute the training data better.
+
+##### 4.	I need to further expand and develop the code to get better prediction/forecasting results.
+
+##### 5.	I can add other weather locations throughout the Houston area and also can use a much larger historical weather data.
+
   
