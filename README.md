@@ -84,8 +84,12 @@ In this project I am going to present how weather in Houston, Texas, specificall
    -  Residual analysis on the Linear Regression model - Train and Test data
    <img src="Images/residual_plot.png" width="300"> 
   
-  
-  
+  ### **Recurrent Neural Network LSTM – Time Series**
+   -  Visualization of the prediction
+   <img src="Images/lstm_prediction.png" width="400">
+ 
+    -  Zoom in closer
+   <img src="Images/lstm_prediction_zoom_in).png" width="400">
   
   
   
