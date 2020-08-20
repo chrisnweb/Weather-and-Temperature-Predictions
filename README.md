@@ -92,8 +92,7 @@ In this project I am going to present how weather in Houston, Texas, specificall
    <img src="Images/lstm_prediction_zoom_in.png" width="500">
   
 ### Result
-The model was able to detect pattern over a period of times. It has picked up the annual trend of increasing value (temperature) as summer and decreasing temperature as winter.
-The graph patterns from our predicted temperature are closed to the actual. Our model did still indicate overall trends such as going up or down. The prediction has taught me that the LSTMs can be very effective in times series predicting/forecasting.
+The graph patterns from our predicted temperature are closed to the actual. Our model did indicate overall trends such as going up or down. The prediction has taught me that the LSTMs can be very effective in times series predicting/forecasting.
  
   
 ## **Conclusion** 
